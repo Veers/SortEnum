@@ -1,0 +1,7 @@
+C:\Users\Punk\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\SortEnum.exe
+C:\Users\Punk\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\SortEnum.pdb
+C:\Users\Punk\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\SortEnum.csprojResolveAssemblyReference.cache
+C:\Users\Punk\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\SortEnum.exe
+C:\Users\Punk\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\SortEnum.pdb
+C:\Users\Punk\Documents\Visual Studio 2013\Projects\SortEnum\ConsoleApplication3\obj\Debug\SortEnum.exe
+C:\Users\Punk\Documents\Visual Studio 2013\Projects\SortEnum\ConsoleApplication3\obj\Debug\SortEnum.pdb
